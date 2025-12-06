@@ -19,4 +19,4 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 ## What part of the project done
 
-This is the Version 1 completed in it's entirity. The project utilizies sockets for this Chatroom.
+This is the Version 1 completed in it's entirety. The project utilizies sockets for this Chatroom.
